@@ -1,2 +1,1 @@
-Тренировочный  проект для работы с git 
-gggggggggggggggggggggggggg
+Тренировочный проект для работы с GIT 
